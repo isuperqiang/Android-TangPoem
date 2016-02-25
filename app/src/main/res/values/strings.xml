@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">唐诗</string>
+    <string name="iv_welcome">欢迎页面</string>
+    <string name="icon_search">搜索图标</string>
+    <string name="tv_all_poem">全部诗歌</string>
+    <string name="icon_setting">细节设置</string>
+    <string name="top_auth">作者</string>
+    <string name="top_all">诗歌</string>
+    <string name="top_type">类别</string>
+    <string name="ic_back">返回按钮</string>
+    <string name="tv_detail">详情</string>
+    <string name="exit_hint">再按一次退出程序</string>
+    <string name="query_hint_author">请输入作者</string>
+    <string name="query_hint_title">请输入标题</string>
+</resources>
